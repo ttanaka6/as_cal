@@ -1,0 +1,10 @@
+ja: 
+  activerecord: 
+    models: 
+      event: "イベント"  #g
+
+    attributes: 
+      event: 
+        title: "タイトル"  #g
+        date: "日付"  #g
+
